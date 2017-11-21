@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string-array name="list">
+        <item>改札</item>
+        <item>通過音</item>
+        <item>足音</item>
+        <item>その他</item>
+    </string-array>
+    <string-array name="kosu">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>
